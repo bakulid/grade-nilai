@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+}
+form {
+    padding: 1em;
+    background: #6afc7d;
+    margin-top: 3em;
+    max-width: 250px;
+    
+}
+
+input {
+    margin-bottom: 1rem;
+
+}
+
+#submit {
+background: #2d9aff;
+padding: 0.7em;
+border: 0;
+border-radius: 3px;
+color: aliceblue;
+}
